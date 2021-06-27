@@ -1,5 +1,5 @@
-![](banerGit5.gif)
-
+<!--![](banerGit5.gif)-->
+<img alt="GIF" src="https://github.com/salvareze/salvareze/blob/master/assets/bannerPerf.gif" width="840px"/>
 
 ### <b>:hibiscus:About me...:hibiscus:</b>
  -----
@@ -21,7 +21,7 @@
   ![SpringBoot](https://img.shields.io/badge/-Springboot-black?style=flat&logo=springboot)
   ![Primefaces](https://img.shields.io/badge/Primefaces-grey?style=flat&logo=primefaces)
   ![Bootfaces](https://img.shields.io/badge/Bootsfaces-orange?style=flat&logo=bootsfaces)
-  ![C#](https://img.shields.io/badge/-C#-orange?style=flat&logo=csharp)
+  ![C#](https://img.shields.io/badge/C%23-orange?style=flat&logo=csharp)
 
   ![Linux/Unix](https://img.shields.io/badge/Linux/Unix-black?style=flat&logo=linux&logoColor=white)
   ![GNU Bash](https://img.shields.io/badge/GNU_Bash-black?style=flat&logo=gnubash&logoColor=white)
@@ -34,7 +34,10 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&logoColor=white) 
 
 **Version Control:**
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle) ![GitLab](https://img.shields.io/badge/-GitLab_-181717?style=flat&logo=gitlab&link=https://github.com/Quananhle) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/Quananhle) 
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/Quananhle) 
+  ![GitLab](https://img.shields.io/badge/-GitLab_-181717?style=flat&logo=gitlab&link=https://github.com/Quananhle) 
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/Quananhle)
 
 **Software Development and others:**
 [![Visual Studio](https://img.shields.io/badge/-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white "Visual Studio")]
